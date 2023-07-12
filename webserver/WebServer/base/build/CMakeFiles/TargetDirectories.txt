@@ -1,0 +1,6 @@
+/home/song/webserver/WebServer/base/build/CMakeFiles/rebuild_cache.dir
+/home/song/webserver/WebServer/base/build/CMakeFiles/edit_cache.dir
+/home/song/webserver/WebServer/base/build/CMakeFiles/libserver_base.dir
+/home/song/webserver/WebServer/base/build/tests/CMakeFiles/rebuild_cache.dir
+/home/song/webserver/WebServer/base/build/tests/CMakeFiles/edit_cache.dir
+/home/song/webserver/WebServer/base/build/tests/CMakeFiles/LoggingTest.dir
