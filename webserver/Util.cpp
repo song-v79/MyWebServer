@@ -9,7 +9,6 @@
 #include <sys/socket.h>
 #include <unistd.h>
 
-
 const int MAX_BUFF = 4096;
 ssize_t readn(int fd, void* buff, size_t n) {
     size_t nleft = n;
